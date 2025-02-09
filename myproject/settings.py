@@ -27,7 +27,7 @@ SECRET_KEY = "django-insecure-s0eg9q5^i%wy4n5m78yvbpwkb3j3u)w8nx=pr&c6+ag8ltvs5t
 DEBUG = True
 
 #ALLOWED_HOSTS = ["babyosaka.io.vn", "www.babyosaka.io.vn", "babyosaka.onrender.com"]
-ALLOWED_HOSTS = ["babyosaka.io.vn","babyosaka.onrender.com"]
+ALLOWED_HOSTS = ["babyosaka.io.vn","www.babyosaka.io.vn","babyosaka.onrender.com"]
 
 # Application definition
 
